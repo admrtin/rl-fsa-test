@@ -151,7 +151,7 @@ if __name__ == "__main__":
     
     toc = time.time()
     print("-------------------------------------------------")
-    print("End of Rocket Lab Flight Analysis Interview Test")
+    print("End of Flight Analysis Interview Test")
     print(f"Elapsed run time: {toc - tic:.2f} seconds")
     print("-------------------------------------------------")
     
